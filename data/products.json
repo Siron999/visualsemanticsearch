@@ -1,0 +1,497 @@
+[
+    {
+        "productId": 1,
+        "name": "Smart 4K TV",
+        "description": "65-inch OLED display with HDR and smart features"
+    },
+    {
+        "productId": 2,
+        "name": "Wireless Earbuds",
+        "description": "Bluetooth 5.0 earbuds with noise cancellation"
+    },
+    {
+        "productId": 3,
+        "name": "Gaming Laptop",
+        "description": "15-inch laptop with RTX 3060 and 16GB RAM"
+    },
+    {
+        "productId": 4,
+        "name": "Smartphone",
+        "description": "128GB storage with AMOLED display and 5G support"
+    },
+    {
+        "productId": 5,
+        "name": "Smartwatch",
+        "description": "Fitness tracking and heart rate monitoring features"
+    },
+    {
+        "productId": 6,
+        "name": "Bluetooth Speaker",
+        "description": "Portable speaker with deep bass and 10-hour battery life"
+    },
+    {
+        "productId": 7,
+        "name": "Electric Scooter",
+        "description": "Foldable design with a range of 20 miles"
+    },
+    {
+        "productId": 8,
+        "name": "Home Security Camera",
+        "description": "1080p video recording with motion detection and night vision"
+    },
+    {
+        "productId": 9,
+        "name": "Wireless Charger",
+        "description": "Fast charging pad compatible with all Qi devices"
+    },
+    {
+        "productId": 10,
+        "name": "Air Purifier",
+        "description": "HEPA filter for capturing allergens and pollutants"
+    },
+    {
+        "productId": 11,
+        "name": "Robot Vacuum Cleaner",
+        "description": "Automatic vacuum with mopping and app control"
+    },
+    {
+        "productId": 12,
+        "name": "4K Action Camera",
+        "description": "Waterproof camera with 4K video recording and wide-angle lens"
+    },
+    {
+        "productId": 13,
+        "name": "Digital Camera",
+        "description": "Mirrorless camera with 24MP sensor and 4K video support"
+    },
+    {
+        "productId": 14,
+        "name": "Wireless Mouse",
+        "description": "Ergonomic design with adjustable DPI settings"
+    },
+    {
+        "productId": 15,
+        "name": "Mechanical Keyboard",
+        "description": "RGB backlighting and tactile switches for gaming"
+    },
+    {
+        "productId": 16,
+        "name": "Smart Thermostat",
+        "description": "Energy-saving thermostat with voice control"
+    },
+    {
+        "productId": 17,
+        "name": "Electric Kettle",
+        "description": "1.7L capacity with variable temperature settings"
+    },
+    {
+        "productId": 18,
+        "name": "Gaming Console",
+        "description": "Next-gen console with 1TB storage and ray tracing"
+    },
+    {
+        "productId": 19,
+        "name": "Noise Cancelling Headphones",
+        "description": "Over-ear headphones with ANC and 30-hour battery life"
+    },
+    {
+        "productId": 20,
+        "name": "Tablet",
+        "description": "10-inch display with 128GB storage and stylus support"
+    },
+    {
+        "productId": 21,
+        "name": "Streaming Stick",
+        "description": "4K streaming device with voice remote and apps support"
+    },
+    {
+        "productId": 22,
+        "name": "Smart Doorbell",
+        "description": "Video doorbell with two-way audio and motion alerts"
+    },
+    {
+        "productId": 23,
+        "name": "Fitness Tracker",
+        "description": "Waterproof tracker with heart rate and sleep monitoring"
+    },
+    {
+        "productId": 24,
+        "name": "Desktop Computer",
+        "description": "Intel i7 processor with 16GB RAM and 1TB SSD"
+    },
+    {
+        "productId": 25,
+        "name": "Smart Light Bulb",
+        "description": "Color-changing bulb with app and voice control"
+    },
+    {
+        "productId": 26,
+        "name": "Electric Toothbrush",
+        "description": "Rechargeable toothbrush with multiple cleaning modes"
+    },
+    {
+        "productId": 27,
+        "name": "Smart Speaker",
+        "description": "Compact speaker with voice assistant and multi-room support"
+    },
+    {
+        "productId": 28,
+        "name": "External Hard Drive",
+        "description": "2TB portable drive with USB 3.0 support"
+    },
+    {
+        "productId": 29,
+        "name": "Electric Bike",
+        "description": "Pedal-assist bike with a range of 30 miles"
+    },
+    {
+        "productId": 30,
+        "name": "Photo Printer",
+        "description": "Wireless printer with high-quality photo output"
+    },
+    {
+        "productId": 31,
+        "name": "VR Headset",
+        "description": "Standalone VR headset with 128GB storage"
+    },
+    {
+        "productId": 32,
+        "name": "Electric Shaver",
+        "description": "Rechargeable shaver with precision trimmer"
+    },
+    {
+        "productId": 33,
+        "name": "Portable Power Bank",
+        "description": "20000mAh power bank with fast charging support"
+    },
+    {
+        "productId": 34,
+        "name": "Smart Ceiling Fan",
+        "description": "Remote-controlled fan with LED light and timer"
+    },
+    {
+        "productId": 35,
+        "name": "Kitchen Blender",
+        "description": "High-power blender with multiple speed settings"
+    },
+    {
+        "productId": 36,
+        "name": "Streaming Webcam",
+        "description": "1080p webcam with built-in microphone and privacy shutter"
+    },
+    {
+        "productId": 37,
+        "name": "Portable Monitor",
+        "description": "15.6-inch monitor with USB-C connectivity"
+    },
+    {
+        "productId": 38,
+        "name": "Standing Desk",
+        "description": "Adjustable height desk with electric controls"
+    },
+    {
+        "productId": 39,
+        "name": "Cordless Drill",
+        "description": "Power drill with rechargeable battery and multiple bits"
+    },
+    {
+        "productId": 40,
+        "name": "Smart Refrigerator",
+        "description": "Wi-Fi-enabled fridge with touch screen and inventory tracking"
+    },
+    {
+        "productId": 41,
+        "name": "Electric Fireplace",
+        "description": "Wall-mounted fireplace with adjustable flame settings"
+    },
+    {
+        "productId": 42,
+        "name": "Electric Skillet",
+        "description": "Non-stick skillet with temperature control"
+    },
+    {
+        "productId": 43,
+        "name": "Home Theater System",
+        "description": "5.1 surround sound system with wireless subwoofer"
+    },
+    {
+        "productId": 44,
+        "name": "Portable AC Unit",
+        "description": "Compact air conditioner with remote control"
+    },
+    {
+        "productId": 45,
+        "name": "Food Processor",
+        "description": "Multi-function processor with various attachments"
+    },
+    {
+        "productId": 46,
+        "name": "Smart Oven",
+        "description": "Wi-Fi-connected oven with voice control"
+    },
+    {
+        "productId": 47,
+        "name": "Smart Lock",
+        "description": "Keyless entry lock with app and keypad support"
+    },
+    {
+        "productId": 48,
+        "name": "Smart Water Bottle",
+        "description": "Hydration tracking bottle with LED reminders"
+    },
+    {
+        "productId": 49,
+        "name": "Smart Window Shades",
+        "description": "App-controlled shades with automated scheduling"
+    },
+    {
+        "productId": 50,
+        "name": "Smart Coffee Maker",
+        "description": "Programmable coffee machine with Wi-Fi connectivity"
+    },
+    {
+        "productId": 51,
+        "name": "Portable Projector",
+        "description": "Compact projector with 1080p support and HDMI input"
+    },
+    {
+        "productId": 52,
+        "name": "Waterproof Speaker",
+        "description": "Rugged Bluetooth speaker with 12-hour battery life"
+    },
+    {
+        "productId": 53,
+        "name": "Portable Heater",
+        "description": "Energy-efficient space heater with safety features"
+    },
+    {
+        "productId": 54,
+        "name": "Induction Cooktop",
+        "description": "Portable cooktop with touch controls and timer"
+    },
+    {
+        "productId": 55,
+        "name": "Smart Plugs",
+        "description": "Wi-Fi-enabled plugs with app and voice control"
+    },
+    {
+        "productId": 56,
+        "name": "Smart Air Conditioner",
+        "description": "Energy-efficient AC with app control and scheduling"
+    },
+    {
+        "productId": 57,
+        "name": "Dishwasher",
+        "description": "Energy Star-rated dishwasher with multiple wash cycles"
+    },
+    {
+        "productId": 58,
+        "name": "Smart Mirror",
+        "description": "LED mirror with integrated display for weather and news"
+    },
+    {
+        "productId": 59,
+        "name": "Solar Power Bank",
+        "description": "Solar-charging power bank with flashlight"
+    },
+    {
+        "productId": 60,
+        "name": "Electric Scooter",
+        "description": "Foldable scooter with LED lights and 15-mile range"
+    },
+    {
+        "productId": 61,
+        "name": "Smart Air Purifier",
+        "description": "HEPA air purifier with app and voice control"
+    },
+    {
+        "productId": 62,
+        "name": "Portable Washer",
+        "description": "Compact washer with multiple wash cycles"
+    },
+    {
+        "productId": 63,
+        "name": "Smart Scale",
+        "description": "Body composition scale with app tracking"
+    },
+    {
+        "productId": 64,
+        "name": "Cordless Vacuum Cleaner",
+        "description": "Lightweight vacuum with powerful suction and detachable battery"
+    },
+    {
+        "productId": 65,
+        "name": "Electric Pressure Cooker",
+        "description": "Multi-function cooker with timer and safety features"
+    },
+    {
+        "productId": 66,
+        "name": "Smart Water Filter",
+        "description": "Wi-Fi-connected filter with replacement reminders"
+    },
+    {
+        "productId": 67,
+        "name": "Electric Grill",
+        "description": "Indoor grill with adjustable temperature control"
+    },
+    {
+        "productId": 68,
+        "name": "Portable Car Jump Starter",
+        "description": "Compact jump starter with USB charging"
+    },
+    {
+        "productId": 69,
+        "name": "Smart Light Panel",
+        "description": "Customizable LED panels with app control"
+    },
+    {
+        "productId": 70,
+        "name": "Smart Bed",
+        "description": "Adjustable bed frame with app and remote control"
+    },
+    {
+        "productId": 71,
+        "name": "Smart Ceiling Light",
+        "description": "Color-changing LED light with app control"
+    },
+    {
+        "productId": 72,
+        "name": "Mini Fridge",
+        "description": "Compact fridge with adjustable thermostat"
+    },
+    {
+        "productId": 73,
+        "name": "Car Dash Cam",
+        "description": "1080p dash cam with wide-angle lens and loop recording"
+    },
+    {
+        "productId": 74,
+        "name": "Portable Generator",
+        "description": "Quiet generator with 2000W power output"
+    },
+    {
+        "productId": 75,
+        "name": "Massage Gun",
+        "description": "Percussion massage gun with multiple attachments"
+    },
+    {
+        "productId": 76,
+        "name": "Electric Hair Clipper",
+        "description": "Rechargeable clipper with multiple length settings"
+    },
+    {
+        "productId": 77,
+        "name": "Digital Notebook",
+        "description": "Reusable notebook with cloud sync"
+    },
+    {
+        "productId": 78,
+        "name": "Smart Lawn Mower",
+        "description": "App-controlled robotic lawn mower"
+    },
+    {
+        "productId": 79,
+        "name": "Portable Treadmill",
+        "description": "Compact treadmill with foldable design"
+    },
+    {
+        "productId": 80,
+        "name": "Smart Washer and Dryer",
+        "description": "Wi-Fi-enabled washer and dryer set"
+    },
+    {
+        "productId": 81,
+        "name": "Instant Camera",
+        "description": "Compact instant camera with film support"
+    },
+    {
+        "productId": 82,
+        "name": "Smart Glasses",
+        "description": "AR glasses with Bluetooth audio"
+    },
+    {
+        "productId": 83,
+        "name": "Digital Picture Frame",
+        "description": "Wi-Fi-enabled frame with cloud photo sync"
+    },
+    {
+        "productId": 84,
+        "name": "Drone",
+        "description": "4K drone with GPS and obstacle avoidance"
+    },
+    {
+        "productId": 85,
+        "name": "Smart Alarm Clock",
+        "description": "Sunrise simulation clock with app control"
+    },
+    {
+        "productId": 86,
+        "name": "Indoor Garden",
+        "description": "Hydroponic garden with LED grow lights"
+    },
+    {
+        "productId": 87,
+        "name": "Air Fryer",
+        "description": "Oil-free fryer with digital display"
+    },
+    {
+        "productId": 88,
+        "name": "Smart Dog Collar",
+        "description": "GPS tracker and activity monitor for pets"
+    },
+    {
+        "productId": 89,
+        "name": "Portable Humidifier",
+        "description": "Compact humidifier with USB charging"
+    },
+    {
+        "productId": 90,
+        "name": "Smart Baby Monitor",
+        "description": "Wi-Fi camera with two-way audio and app control"
+    },
+    {
+        "productId": 91,
+        "name": "Electric Waffle Maker",
+        "description": "Non-stick waffle maker with adjustable browning control"
+    },
+    {
+        "productId": 92,
+        "name": "Electric Rice Cooker",
+        "description": "Multi-function rice cooker with timer and keep-warm setting"
+    },
+    {
+        "productId": 93,
+        "name": "Portable Fan",
+        "description": "USB-powered fan with adjustable speed"
+    },
+    {
+        "productId": 94,
+        "name": "Mini Projector",
+        "description": "Pocket-sized projector with 720p resolution"
+    },
+    {
+        "productId": 95,
+        "name": "LED Strip Lights",
+        "description": "Color-changing LED strips with remote control"
+    },
+    {
+        "productId": 96,
+        "name": "Smart Garden Sensor",
+        "description": "Soil and light monitoring sensor with app support"
+    },
+    {
+        "productId": 97,
+        "name": "Digital Meat Thermometer",
+        "description": "Instant-read thermometer with backlit display"
+    },
+    {
+        "productId": 98,
+        "name": "Smart Pillow",
+        "description": "Memory foam pillow with sleep tracking"
+    },
+    {
+        "productId": 99,
+        "name": "Digital Scale",
+        "description": "Kitchen scale with tare function and precise measurements"
+    }
+]
